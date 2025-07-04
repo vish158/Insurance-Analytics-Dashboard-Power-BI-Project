@@ -108,3 +108,40 @@ Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you haven
 ### Load the Project
 Open the `.pbix` file from the cloned folder:
 insurance-powerbi-dashboard/InsuranceDashboard.pbix
+
+### Explore the Dashboard
+- Use the slicers to filter by Policy Number, Claim Number, or Customer ID.
+- Hover over charts and interact with visual elements to get deeper insights.
+
+---
+
+## 📁 Files in This Repository
+
+| File Name               | Description                                  |
+|------------------------|----------------------------------------------|
+| `InsuranceDashboard.pbix` | Main Power BI dashboard project file         |
+| `InsuracePowerB!.pdf`     | Screenshot preview of the Power BI dashboard |
+| `README.md`               | Project documentation                        |
+
+---
+
+## 📌 Future Enhancements
+
+- Integration with real-time data sources (SQL/Azure).
+- Drill-through pages for customer-level insights.
+- Predictive analytics for high-risk claims using ML models.
+
+---
+
+## 👨‍💼 Author
+
+**Vishnu Undhad**  
+B.Sc. Computer Science | Data Analytics Enthusiast  
+[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+"""
+
+# Save to a README.md file
+file_path = "/mnt/data/README.md"
+with open(file_path, "w", encoding="utf-8") as f:
+    f.write(minimal_readme_content)
+
