@@ -141,6 +141,8 @@ insurance-powerbi-dashboard/InsuranceDashboard.pbix
 B.Sc. Computer Science | Data Analytics Enthusiast  
 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
 """
+**DISCLAIMER**
+It may show a different Author on the file only because the Microsoft Account is under another name however, Im the only Author to Analyse and Generate this Project!
 
 # Save to a README.md file
 file_path = "/mnt/data/README.md"
