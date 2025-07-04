@@ -104,6 +104,8 @@ minimal_readme_content = """
 
 ### Open Power BI Desktop
 Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you haven't.
+OR
+Click the Following link: https://app.powerbi.com/view?r=eyJrIjoiZmY1Njg4ZGUtZjAzNS00ZGE4LWEyY2MtN2I5MjFhYmVmODYwIiwidCI6IjhjZDM2MGMyLTA2OGItNGUzNi04ZGI1LTI3YjM1NzkyZjUzZiIsImMiOjZ9
 
 ### Load the Project
 Open the `.pbix` file from the cloned folder:
