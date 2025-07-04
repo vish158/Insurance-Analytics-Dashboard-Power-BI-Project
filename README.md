@@ -99,3 +99,12 @@ Age and gender segmentation helps adjust pricing models and forecast future clai
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/vish158/insurance-powerbi-dashboard.git
+minimal_readme_content = """
+## 🛠️ How to Access the Power BI Project
+
+### Open Power BI Desktop
+Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you haven't.
+
+### Load the Project
+Open the `.pbix` file from the cloned folder:
+insurance-powerbi-dashboard/InsuranceDashboard.pbix
